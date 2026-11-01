@@ -12,5 +12,8 @@
 - [ ] Dive deep into linear algebra and calculus for machine learning.
 
 📬 Connect With Me
+
+
 Linkedin profile: https://www.linkedin.com/in/vaishnavi-maurya-a23b06406/
+
 Email: vaishnavim1007@gmail.com
